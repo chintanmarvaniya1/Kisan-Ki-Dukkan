@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "55094798637",
+    "firebase_url": "https://kisan-ki-dukaan-9d208-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "kisan-ki-dukaan-9d208",
+    "storage_bucket": "kisan-ki-dukaan-9d208.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55094798637:android:8e73ea6ddd934f75e14ba4",
+        "android_client_info": {
+          "package_name": "com.example.kisankidukaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55094798637-pas46gbl1oqvpk6tahd68scqg0j7i6j1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe7JpG2XIsaUJIzr4lc9oHOTIQ5SbnFCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55094798637-pas46gbl1oqvpk6tahd68scqg0j7i6j1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

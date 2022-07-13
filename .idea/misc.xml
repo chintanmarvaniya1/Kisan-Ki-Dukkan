@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/chint/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_spinner_dropdown_item.xml" value="0.25" />
+        <entry key="..\:/Users/chint/Desktop/Demo/Kisankidukaan/app/src/main/res/drawable-v24/ecommborder.xml" value="0.1745" />
+        <entry key="..\:/Users/chint/Desktop/Demo/Kisankidukaan/app/src/main/res/drawable/apmc_card_bg.xml" value="0.1535" />
+        <entry key="..\:/Users/chint/Desktop/Demo/Kisankidukaan/app/src/main/res/drawable/ic_baseline_account.xml" value="0.1535" />
+        <entry key="..\:/Users/chint/Desktop/Demo/Kisankidukaan/app/src/main/res/drawable/ic_baseline_add.xml" value="0.1745" />
+        <entry key="..\:/Users/chint/Desktop/Demo/Kisankidukaan/app/src/main/res/drawable/ic_baseline_prev.xml" value="0.1745" />
+        <entry key="..\:/Users/chint/Desktop/Demo/Kisankidukaan/app/src/main/res/drawable/ic_high_temp.xml" value="0.1535" />
+        <entry key="..\:/Users/chint/Desktop/Demo/Kisankidukaan/app/src/main/res/drawable/ic_humidity.xml" value="0.1535" />
+        <entry key="..\:/Users/chint/Desktop/Demo/Kisankidukaan/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1535" />
+        <entry key="..\:/Users/chint/Desktop/Demo/Kisankidukaan/app/src/main/res/drawable/ic_low_temp.xml" value="0.1535" />
+        <entry key="..\:/Users/chint/Desktop/Demo/Kisankidukaan/app/src/main/res/drawable/weather_rcyclr_bg.xml" value="0.1535" />
+        <entry key="..\:/Users/chint/Desktop/Demo/Kisankidukaan/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/chint/Desktop/Demo/Kisankidukaan/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/chint/Desktop/Demo/Kisankidukaan/app/src/main/res/layout/activity_main.xml" value="0.2359375" />
+        <entry key="..\:/Users/chint/Desktop/Demo/Kisankidukaan/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/chint/Desktop/Demo/Kisankidukaan/app/src/main/res/layout/apmc_snippet.xml" value="0.25" />
+        <entry key="..\:/Users/chint/Desktop/Demo/Kisankidukaan/app/src/main/res/layout/fragment_add_item.xml" value="0.25" />
+        <entry key="..\:/Users/chint/Desktop/Demo/Kisankidukaan/app/src/main/res/layout/fragment_apmc.xml" value="0.25" />
+        <entry key="..\:/Users/chint/Desktop/Demo/Kisankidukaan/app/src/main/res/layout/fragment_auction.xml" value="0.25" />
+        <entry key="..\:/Users/chint/Desktop/Demo/Kisankidukaan/app/src/main/res/layout/fragment_crop_prediction.xml" value="0.25" />
+        <entry key="..\:/Users/chint/Desktop/Demo/Kisankidukaan/app/src/main/res/layout/fragment_item_description.xml" value="0.25" />
+        <entry key="..\:/Users/chint/Desktop/Demo/Kisankidukaan/app/src/main/res/layout/fragment_update_information.xml" value="0.25" />
+        <entry key="..\:/Users/chint/Desktop/Demo/Kisankidukaan/app/src/main/res/layout/fragment_user.xml" value="0.25" />
+        <entry key="..\:/Users/chint/Desktop/Demo/Kisankidukaan/app/src/main/res/layout/fragment_weather.xml" value="0.25" />
+        <entry key="..\:/Users/chint/Desktop/Demo/Kisankidukaan/app/src/main/res/layout/item_image.xml" value="0.25" />
+        <entry key="..\:/Users/chint/Desktop/Demo/Kisankidukaan/app/src/main/res/layout/single_currentweather.xml" value="0.25" />
+        <entry key="..\:/Users/chint/Desktop/Demo/Kisankidukaan/app/src/main/res/layout/single_tread_item.xml" value="0.25" />
+        <entry key="..\:/Users/chint/Desktop/Demo/Kisankidukaan/app/src/main/res/layout/single_weather_snippet.xml" value="0.25" />
+        <entry key="..\:/Users/chint/Desktop/Demo/Kisankidukaan/app/src/main/res/menu/bottom_nav_bar.xml" value="0.25" />
+        <entry key="..\:/Users/chint/Desktop/Mega Project/Kisankidukaan/app/src/main/res/drawable/ic_high_temp.xml" value="0.166" />
+        <entry key="..\:/Users/chint/Desktop/Mega Project/Kisankidukaan/app/src/main/res/drawable/ic_humidity.xml" value="0.166" />
+        <entry key="..\:/Users/chint/Desktop/Mega Project/Kisankidukaan/app/src/main/res/drawable/ic_low_temp.xml" value="0.166" />
+        <entry key="..\:/Users/chint/Desktop/Mega Project/Kisankidukaan/app/src/main/res/drawable/weather_rcyclr_bg.xml" value="0.166" />
+        <entry key="..\:/Users/chint/Desktop/Mega Project/Kisankidukaan/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/chint/Desktop/Mega Project/Kisankidukaan/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/chint/Desktop/Mega Project/Kisankidukaan/app/src/main/res/layout/fragment_auction.xml" value="0.25" />
+        <entry key="..\:/Users/chint/Desktop/Mega Project/Kisankidukaan/app/src/main/res/layout/fragment_crop_prediction.xml" value="0.25" />
+        <entry key="..\:/Users/chint/Desktop/Mega Project/Kisankidukaan/app/src/main/res/layout/fragment_weather.xml" value="0.25" />
+        <entry key="..\:/Users/chint/Desktop/Mega Project/Kisankidukaan/app/src/main/res/layout/single_currentweather.xml" value="0.25" />
+        <entry key="..\:/Users/chint/Desktop/Mega Project/Kisankidukaan/app/src/main/res/layout/single_weather_snippet.xml" value="0.25" />
+        <entry key="..\:/Users/chint/Desktop/Mega Project/Kisankidukaan/app/src/main/res/menu/bottom_nav_bar.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

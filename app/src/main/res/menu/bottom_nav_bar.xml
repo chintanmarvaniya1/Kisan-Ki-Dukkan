@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:id="@+id/miShopping"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_shopping"
+        android:title="Auction"/>
+
+
+    <item
+        android:id="@+id/miWeather"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_weather"
+        android:title="Weather Update"/>
+
+    <item
+        android:id="@+id/miPrediction"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_predict"
+        android:title="Crop Prediction"/>
+
+    <item
+        android:id="@+id/miAPMC"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_apmc"
+        android:title="APMC Prices"/>
+
+    <item
+        android:id="@+id/miUserAccount"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_account"
+        android:title="User Account"/>
+</menu>
